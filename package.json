@@ -1,0 +1,23 @@
+{
+  "name": "retortoise",
+  "version": "0.0.0",
+  "description": "Hipchat bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/graysonc/retortoise"
+  },
+  "keywords": [
+    "hipchat",
+    "bot"
+  ],
+  "author": "Grayson Chao",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/graysonc/retortoise/issues"
+  },
+  "homepage": "https://github.com/graysonc/retortoise"
+}
